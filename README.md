@@ -1,1 +1,1 @@
-# cuda_things
+# learn cuda
