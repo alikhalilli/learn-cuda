@@ -1,1 +1,1 @@
-# learn cuda
+# learn cuda with Ali Kh.
